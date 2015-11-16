@@ -1,6 +1,6 @@
 {
   "name": "atns-ng-buildversion",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/tbaum/atns-ng-buildversion",
   "authors": [
     "Thomas Baum <thomas.baum@atns.de>"
@@ -16,6 +16,6 @@
   "main": "./serverVersionInterceptor.js",
   "dependencies": {
     "angular": "~1.x",
-    "atns-ng-messages": "~0.1.1"
+    "atns-ng-messages": "~0.1.2"
   }
 }
